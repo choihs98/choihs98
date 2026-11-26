@@ -1,3 +1,3 @@
-![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)
-
-<img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=warm"/>
+<p align="center">
+  <img src="https://ghchart.xqsit94.in/dark:8BC6A0/choihs98" width="100%" alt="GitHub Contributions"/>
+</p>
