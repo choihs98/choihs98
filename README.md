@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:555555&height=200&section=header&text=CHOI%20HYEONG%20SEOP&fontSize=38&fontColor=ffffff&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=200&section=header&text=CHOI%20HYEONG%20SEOP&fontSize=38&fontColor=ffffff&fontAlignY=40)
+
 
 
 
