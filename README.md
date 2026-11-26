@@ -2,63 +2,35 @@
 <div align="center">
 
 <br/>
-<br/>
 
 # CHOI HYEONG SEOP
 
-### Software Developer · IT Engineer
+<br/><br/>
+
+</div>
+
+## CAREER
 
 <br/>
 
-소프트웨어를 만들고, 시스템을 이해하며,<br/>
-기술로 더 나은 환경을 만들어 갑니다.
+### 제일일렉트릭
+**IT Department**
 
-<br/>
-<br/>
-
----
-
-<br/>
-
-**WHAT I DO**
+- Delphi / C# 기반 사내 소프트웨어 개발 및 유지보수
+- ERP 시스템 운영 및 관리
+- 서버 · 네트워크 인프라 운영
+- 정보보안 및 IT 시스템 관리
 
 <br/>
 
-Software Development
+### 제니스클라우드
 
-Delphi · C# · ERP Systems
+- 담당 업무 내용 추가 필요
 
-<br/>
-
-Infrastructure & Security
-
-Server · Network · IT Operations
-
-<br/>
-
-Technology Exploration
-
-AI · LLM · Cloud Computing
-
-<br/>
 <br/>
 
 ---
 
-<br/>
-
-**EXPERIENCE**
-
-제일일렉트릭　·　IT
-
-제니스클라우드
-
-<br/>
-<br/>
-
-<sub>BUILDING · LEARNING · EVOLVING</sub>
-
-<br/>
-<br/>
-
+<div align="center">
+<sub>CAREER PROFILE</sub>
 </div>
