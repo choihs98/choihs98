@@ -1,18 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:444444&height=200&section=header&text=CHOI%20HYEONG%20SEOP&fontSize=38&fontColor=ffffff&fontAlignY=40)
 
-
-
-
-<div align="center">
-
-<br/>
-
-# CHOI HYEONG SEOP
-
-<br/><br/>
-
-</div>
-
 ## CAREER
 
 <br/>
