@@ -6,9 +6,9 @@
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td valign="top" width="44%">
+<td valign="top" width="50%">
 
 <h2>💼 Career</h2>
 
@@ -37,11 +37,11 @@
 </ul>
 
 </td>
-<td valign="top" width="56%">
+<td valign="top" width="50%">
 
 <h2>🛠️ Tech Stack</h2>
 
-<table>
+<table width="100%">
 <tr><th>영역</th><th>스택</th></tr>
 <tr>
 <td><b>Development</b></td>
