@@ -1,15 +1,14 @@
-<h2 align="left">EXPERIENCE</h2>
+## 경력 사항
 
-<p align="left">
-  <strong>CHEIL ELECTRIC</strong><br/>
-  <sub>IT Department</sub><br/>
-  <br/>
-  <code>Delphi</code> <code>C#</code> <code>Infrastructure</code> <code>Security</code>
-</p>
+**제일일렉트릭**  
+전산팀 · IT 개발 및 인프라 운영
 
-<hr/>
+`Delphi` `C#` `서버 관리` `네트워크` `정보보안`
 
-<p align="left">
-  <strong>ZENITH CLOUD</strong><br/>
-  <sub>Professional Experience</sub>
-</p>
+<br/>
+
+**제니스클라우드**  
+클라우드 관련 경력
+
+---
+
