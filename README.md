@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=CHOI%20HYEONG%20SEOP&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Infra%20%C2%B7%20Security%20%C2%B7%20Development&descAlignY=58&descSize=16" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&weight=500&size=20&duration=3000&pause=1000&color=764BA2&center=true&vCenter=true&width=500&lines=%EC%9D%B8%ED%94%84%EB%9D%BC%EB%A5%BC+%EC%9A%B4%EC%98%81%ED%95%98%EA%B3%A0;%EB%B3%B4%EC%95%88%EC%9D%84+%EC%A7%80%ED%82%A4%EA%B3%A0;%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4+%F0%9F%9A%80" />
-
-🖥️ **Infra** &nbsp;·&nbsp; 🔐 **Security** &nbsp;·&nbsp; 💻 **Development**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=CHOI%20HYEONG%20SEOP&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Infra%20%C2%B7%20Security%20%C2%B7%20Development&descAlignY=58&descSize=16" width="100%"/>
 
 </div>
 
@@ -34,35 +30,35 @@
 <div align="center">
 
 #### 💻 Development
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C%23-2C5364?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-2C5364?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Delphi-2C5364?style=for-the-badge&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-2C5364?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-2C5364?style=for-the-badge&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-2C5364?style=for-the-badge"/>
 
 #### 🌐 Infra & Cloud
-<img src="https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20365-D83B01?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Exchange%20Online-0364B8?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Citrix-452170?style=for-the-badge&logo=citrix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Windows_Server-1F6F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Active_Directory-1F6F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft_365-1F6F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Exchange_Online-1F6F8B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Citrix-1F6F8B?style=for-the-badge&logo=citrix&logoColor=white"/>
 
 #### 🔐 Security
-<img src="https://img.shields.io/badge/Symantec%20DLP-FDB511?style=for-the-badge&logo=broadcom&logoColor=black"/>
-<img src="https://img.shields.io/badge/SEPM-FDB511?style=for-the-badge&logo=broadcom&logoColor=black"/>
-<img src="https://img.shields.io/badge/Genians%20NAC-00A0E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MS%20Purview-0F6CBD?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Symantec_DLP-0F766E?style=for-the-badge&logo=broadcom&logoColor=white"/>
+<img src="https://img.shields.io/badge/SEPM-0F766E?style=for-the-badge&logo=broadcom&logoColor=white"/>
+<img src="https://img.shields.io/badge/Genians_NAC-0F766E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MS_Purview-0F766E?style=for-the-badge"/>
 
 #### 🧰 Tools
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual_Studio-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VS_Code-475569?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SVN-475569?style=for-the-badge&logo=subversion&logoColor=white"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" width="100%"/>
